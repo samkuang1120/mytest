@@ -7,6 +7,18 @@
 <title>Insert title here</title>
 </head>
 <body>
-My First Test of GIT
+<table>
+	<tr>
+		<td>
+		My First Test of GIT
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Testing...
+		</td>
+	</tr>
+</table>
+
 </body>
 </html>

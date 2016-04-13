@@ -18,6 +18,11 @@
 		Testing...
 		</td>
 	</tr>
+	<tr>
+		<td>
+		Learning...
+		</td>
+	</tr>
 </table>
 
 </body>

@@ -23,6 +23,11 @@
 		Learning...
 		</td>
 	</tr>
+	<tr>
+		<td>
+		Learning...2018
+		</td>
+	</tr>
 </table>
 
 </body>
